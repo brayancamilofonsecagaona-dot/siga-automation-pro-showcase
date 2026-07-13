@@ -1,8 +1,0 @@
-Guarda aquí el diagrama de arquitectura como  arquitectura.png
-
-Cómo obtenerlo:
-- Descarga/captura el diagrama que te generó Claude (el de la arquitectura AWS).
-- Guárdalo en esta carpeta con el nombre exacto:  arquitectura.png
-- El README.md ya lo referencia con:  ![Arquitectura](docs/arquitectura.png)
-
-(Este archivo .txt lo puedes borrar cuando pongas la imagen.)
